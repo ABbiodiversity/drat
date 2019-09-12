@@ -1,7 +1,15 @@
+Package: cure4insect
+Version: 0.1-1
+Depends: sp, raster
+Imports: Matrix, intrval, pbapply (>= 1.3-4), KernSmooth, base64enc, mefa4, sendmailR, parallel
+Suggests: knitr, jsonlite, rgdal
+License: MIT + file LICENSE
+MD5sum: 998ac927b7ebb6bcbc6ff9700bef6e3f
+NeedsCompilation: no
+
 Package: drat
 Version: 0.0.4
 Suggests: git2r, knitr
 License: GPL (>= 2)
 MD5sum: 96a3a1f4d859b60fc83066f66e9d4761
 NeedsCompilation: no
-
