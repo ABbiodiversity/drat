@@ -14,3 +14,12 @@ Suggests: git2r, knitr
 License: GPL (>= 2)
 MD5sum: 96a3a1f4d859b60fc83066f66e9d4761
 NeedsCompilation: no
+
+Package: WildLift
+Version: 0.2.78
+Depends: popbio
+Suggests: knitr, rmarkdown, shiny, shinydashboard, plotly, openxlsx,
+        shinyBS
+License: Apache License (== 2.0) | file LICENSE
+MD5sum: bd577fd79d26d1ad7522fb529ee5970e
+NeedsCompilation: no
