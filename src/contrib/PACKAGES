@@ -21,5 +21,5 @@ Depends: popbio
 Suggests: knitr, rmarkdown, shiny, shinydashboard, plotly, openxlsx,
         shinyBS
 License: Apache License (== 2.0) | file LICENSE
-MD5sum: bd577fd79d26d1ad7522fb529ee5970e
+MD5sum: 06df64d6ab96faaa82e5eacf4a39d508
 NeedsCompilation: no
