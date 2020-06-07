@@ -16,10 +16,10 @@ MD5sum: 96a3a1f4d859b60fc83066f66e9d4761
 NeedsCompilation: no
 
 Package: WildLift
-Version: 0.2.78
+Version: 0.2.80
 Depends: popbio
 Suggests: knitr, rmarkdown, shiny, shinydashboard, plotly, openxlsx,
         shinyBS
 License: Apache License (== 2.0) | file LICENSE
-MD5sum: 0f37b412abf33f78453a486784484625
+MD5sum: 0c15e5527d19e40bc87ee2c23f5aab2f
 NeedsCompilation: no
